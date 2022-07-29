@@ -366,6 +366,10 @@ display:block ;
   height: 40px;
 }
 
+.bg-cadetblue {
+  background-color: cadetblue;
+}
+
 @media screen and (max-width: 920px) {
   form .body-form .right {
     margin-left: 0px;
